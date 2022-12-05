@@ -1,0 +1,97 @@
+Array
+(
+    [_] => updateNewMessage
+    [message] => Array
+        (
+            [_] => message
+            [out] =>
+            [mentioned] =>
+            [media_unread] =>
+            [silent] =>
+            [post] =>
+            [from_scheduled] =>
+            [legacy] =>
+            [id] => 19461
+            [from_id] => 565324826
+            [to_id] => Array
+                (
+                    [_] => peerUser
+                    [user_id] => 633187422
+                )
+
+            [date] => 1564778247
+            [message] =>
+            [media] => Array
+                (
+                    [_] => messageMediaPhoto
+                    [photo] => Array
+                        (
+                            [_] => photo
+                            [has_stickers] =>
+                            [id] => 5343652040733207294
+                            [access_hash] => -4007065874773741509
+                            [file_reference] => danog\MadelineProto\TL\Types\Bytes Object
+                                (
+                                    [bytes:danog\MadelineProto\TL\Types\Bytes:private] => ^A^@^@L^E]D�^G�U|���^^�E��Ѩ��3
+                                )
+
+                            [date] => 1564777520
+                            [sizes] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [_] => photoStrippedSize
+                                            [type] => i
+                                            [bytes] => danog\MadelineProto\TL\Types\Bytes Object
+                                                (
+                                                    [bytes:danog\MadelineProto\TL\Types\Bytes:private] => ^A^W(�^C^C=�x!��^Bp^G\u�0ZF��g<Ӽ��^\yy�0y昈��2���^O\���iWcc5v^[��m���^N^G�P �X7c@^$
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                    [1] => Array
+                                        (
+                                            [_] => photoSize
+                                            [type] => m
+                                            [location] => Array
+                                                (
+                                                    [_] => fileLocationToBeDeprecated
+                                                    [volume_id] => 250740122
+                                                    [local_id] => 130011
+                                                )
+
+                                            [w] => 320
+                                            [h] => 180
+                                            [size] => 11445
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [_] => photoSize
+                                            [type] => x
+                                            [location] => Array
+                                                (
+                                                    [_] => fileLocationToBeDeprecated
+                                                    [volume_id] => 250740122
+                                                    [local_id] => 130010
+                                                )
+
+                                            [w] => 600
+                                            [h] => 337
+                                            [size] => 29372
+                                        )
+
+                                )
+
+                            [dc_id] => 2
+                        )
+
+                )
+
+        )
+
+    [pts] => 20085
+    [pts_count] => 1
+)

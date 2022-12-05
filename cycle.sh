@@ -1,0 +1,1 @@
+#!/bin/bash while true do php bot.php sleep 1 done
